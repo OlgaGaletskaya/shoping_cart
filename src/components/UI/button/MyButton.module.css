@@ -1,0 +1,13 @@
+.MyBtn{
+    padding: 5px 15px;
+    width: 100%;
+    color: #EDF5E1;
+    font-size: 14px;
+    background-color: #05386B ;
+    border: 1px solid #05386B ;
+    border-radius: 5px;
+}
+.MyBtn:disabled{
+    background-color: rgb(97, 97, 97);
+    border: 0px;
+}
